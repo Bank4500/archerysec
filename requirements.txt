@@ -18,7 +18,7 @@ cryptography==3.4.7
 cssselect2==0.4.1
 defusedxml==0.7.1
 diff-match-patch==20200713
-Django==3.2.13
+Django==3.2.16
 django-appconf==1.0.4
 django-background-tasks==1.2.5
 django-compat==1.0.15
@@ -67,7 +67,7 @@ Pillow
 psycopg2-binary==2.8.6
 PyBurprestapi==0.4
 pycparser==2.18
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.7.4
 pyparsing==2.4.7
 PyPDF2==1.27.5
