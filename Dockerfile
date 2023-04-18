@@ -1,5 +1,5 @@
 #Ubuntu base OS
-FROM ubuntu:jammy-20220421
+FROM ubuntu:kinetic
 # Labels and Credits
 LABEL \
     name="ArcherySec" \
